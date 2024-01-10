@@ -65,6 +65,7 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 6. Una vez que haya finalizado la compilación, podrás descargar el archivo PDF resultante desde la interfaz de Overleaf.
 
 ## 🤝 Contribuciones
-Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.
+<img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Working-With-Sqlite/assets/90756437/f83020eb-76e4-4224-87e4-ae2a2d370b05g">
+Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.<br><br>
 
 Por favor, contácteme si tiene preguntas o comentarios sobre el informe.
