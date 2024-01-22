@@ -1,5 +1,9 @@
 <h1 align="center">One Piece Tap App 🏴‍☠️</h1>
 
+<p align="center">
+  <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/One-Piece-Tap-App/assets/90756437/bd93916c-7484-42d9-aaa4-7ec99a61bcb7">
+</p>
+
 Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la unidad 2: Compila la IU de una app.
 
 ## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
