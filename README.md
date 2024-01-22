@@ -1,4 +1,4 @@
-<h1 align="center">One Piece Tap App 🏴‍☠️</h1>
+<h1 align="center">🦜One Piece Tap App 🏴‍☠️</h1>
 
 <p align="center">
   <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/One-Piece-Tap-App/assets/90756437/bd93916c-7484-42d9-aaa4-7ec99a61bcb7">
@@ -23,7 +23,7 @@ Los temas clave que se abordarán son los siguientes:
 **⚙️ Interactúa con la Interfaz de Usuario y el Estado:**
   Continuaremos construyendo sobre tus habilidades previas en Kotlin, llevándote más allá de los conceptos básicos. Nos sumergiremos en la creación de una aplicación de cálculo de propinas, donde aprenderás a manejar la interfaz de usuario y gestionar el estado de la aplicación para mejorar la experiencia del usuario. ¡Vamos a crear juntos!
 
-Esta ruta de aprendizaje proporciona un mayor manejo en el desarrollo de interfaces en aplicaciones **Android 🦜**.
+Esta ruta de aprendizaje proporciona un mayor manejo en el desarrollo de interfaces en aplicaciones **Android**.
 
 ## 📱 Vista de la App
 
