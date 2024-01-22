@@ -24,10 +24,10 @@ Esta ruta de aprendizaje proporciona un mayor manejo en el desarrollo de interfa
 ## 📱 Vista de la App
 
 <ul align="center">		
-  <img width="200px" src="https://i.imgur.com/BEwb4BZ.png">
-  <img width="200px" src="https://i.imgur.com/WVb2J5A.png">
-  <img width="200px" src="https://i.imgur.com/oeWcWhH.png">
-  <img width="200px" src="https://i.imgur.com/PLSjTbL.png">
+  <img width="150px" src="https://i.imgur.com/BEwb4BZ.png">
+  <img width="150px" src="https://i.imgur.com/WVb2J5A.png">
+  <img width="150px" src="https://i.imgur.com/oeWcWhH.png">
+  <img width="150px" src="https://i.imgur.com/PLSjTbL.png">
 </ul>
 
 
