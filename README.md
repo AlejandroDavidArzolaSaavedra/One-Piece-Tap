@@ -1,4 +1,4 @@
-<h1 align="center">🦜 One Piece Tap App 🏴‍☠️</h1>
+<h1 align="center">One Piece Tap App 🏴‍☠️</h1>
 
 Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la unidad 2: Compila la IU de una app.
 
@@ -19,15 +19,13 @@ Los temas clave que se abordarán son los siguientes:
 **⚙️ Interactúa con la Interfaz de Usuario y el Estado:**
   Continuaremos construyendo sobre tus habilidades previas en Kotlin, llevándote más allá de los conceptos básicos. Nos sumergiremos en la creación de una aplicación de cálculo de propinas, donde aprenderás a manejar la interfaz de usuario y gestionar el estado de la aplicación para mejorar la experiencia del usuario. ¡Vamos a crear juntos!
 
-Esta ruta de aprendizaje proporciona un mayor manejo en el desarrollo de interfaces en aplicaciones **Android**.
+Esta ruta de aprendizaje proporciona un mayor manejo en el desarrollo de interfaces en aplicaciones **Android 🦜**.
 
 ## 📱 Vista de la App
 
 <ul align="center">		
   <img width="200px" src="https://i.imgur.com/BEwb4BZ.png">
   <img width="200px" src="https://i.imgur.com/WVb2J5A.png">
-</ul>
-<ul align="center">		
   <img width="200px" src="https://i.imgur.com/oeWcWhH.png">
   <img width="200px" src="https://i.imgur.com/PLSjTbL.png">
 </ul>
