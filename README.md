@@ -1,4 +1,4 @@
-<h1 align="center">🦜One Piece Tap App 🏴‍☠️</h1>
+<h1 align="center">🦜One Piece Tap 🏴‍☠️</h1>
 
 <p align="center">
   <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/One-Piece-Tap-App/assets/90756437/bd93916c-7484-42d9-aaa4-7ec99a61bcb7">
