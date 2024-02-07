@@ -4,28 +4,28 @@
   <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/One-Piece-Tap-App/assets/90756437/bd93916c-7484-42d9-aaa4-7ec99a61bcb7">
 </p>
 
-Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la unidad 2: Compila la IU de una app.
+This practice focuses on the Basics of Android with Compose regarding data persistence, specifically addressing Unit 2: Compile the UI of an app.
 
-## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
-Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
+## 🙆👨‍💻 Author (Ctrl + Click to view profiles)
+This report has been prepared by Group 13 of the Native Mobile Applications Programming (PAMN) course.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-blue?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
   
-## 📑 Contenido del Informe
-Los temas clave que se abordarán son los siguientes:
+## 📑 Report Contents
+The key topics to be addressed are as follows:
 
-**🚀 Conceptos Básicos de Kotlin:**
-  En esta unidad, profundizaremos en los fundamentos de Kotlin, explorando conceptos esenciales de programación orientada a objetos y lambdas. Estos conocimientos proporcionarán la base necesaria para el desarrollo interactivo de aplicaciones.
+**🚀 Basic Kotlin Concepts:**
+  In this unit, we will delve into the fundamentals of Kotlin, exploring essential object-oriented programming and lambda concepts. These knowledge will provide the necessary foundation for interactive application development.
 
-**⚙️ Agrega un Botón a una App:**
-  En esta sección, aprenderemos a incorporar interactividad a nuestras aplicaciones Android. Exploraremos cómo agregar un botón y responder a eventos de clic en una app. Esto permitirá una mayor dinámica en la interacción usuario-app.
+**⚙️ Add a Button to an App:**
+  In this section, we will learn to incorporate interactivity into our Android applications. We will explore how to add a button and respond to click events in an app. This will allow for greater dynamics in user-app interaction.
 
-**⚙️ Interactúa con la Interfaz de Usuario y el Estado:**
-  Continuaremos construyendo sobre tus habilidades previas en Kotlin, llevándote más allá de los conceptos básicos. Nos sumergiremos en la creación de una aplicación de cálculo de propinas, donde aprenderás a manejar la interfaz de usuario y gestionar el estado de la aplicación para mejorar la experiencia del usuario. ¡Vamos a crear juntos!
+**⚙️ Interact with User Interface and State:**
+  We will continue building upon your previous Kotlin skills, taking you beyond the basics. We will dive into creating a tip calculator application, where you will learn to handle the user interface and manage the application state to enhance the user experience. Let's create together!
 
-Esta ruta de aprendizaje proporciona un mayor manejo en el desarrollo de interfaces en aplicaciones **Android**.
+This learning path provides further mastery in developing interfaces in **Android** applications.
 
-## 📱 Vista de la App
+## 📱 App View
 
 <ul align="center">		
   <img width="150px" src="https://i.imgur.com/BEwb4BZ.png">
@@ -35,39 +35,38 @@ Esta ruta de aprendizaje proporciona un mayor manejo en el desarrollo de interfa
 </ul>
 
 
-## 🎮 Ejecución de la Aplicación
-Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:
+## 🎮 Running the App
+Additionally, to compile and run your Android application locally, follow these steps using Android Studio:
 
-1. Abre tu proyecto en Android Studio.
+1. Open your project in Android Studio.
 
-2. Verifica que todas las dependencias estén correctamente configuradas.
+2. Ensure all dependencies are correctly configured.
 
-3. Haz clic en el botón "Build" para compilar tu aplicación.
+3. Click the "Build" button to compile your application.
 
-4. Una vez completada la compilación, selecciona un emulador o conecta un dispositivo físico.
+4. Once the build is complete, select an emulator or connect a physical device.
 
-5. Haz clic en el botón "Run" para ejecutar la aplicación en el emulador o dispositivo.
+5. Click the "Run" button to execute the application on the emulator or device.
 
-Recuerda que estos pasos asumen que ya has configurado tu entorno de desarrollo correctamente y que tu aplicación está libre de errores. ¡Disfruta de la compilación y ejecución de tu aplicación en Android Studio!
+Please note that these steps assume you have already set up your development environment correctly and that your application is error-free. Enjoy building and running your application in Android Studio!
 
+## 📄 Compiling the Report
+If you want to compile the report on Overleaf instead of doing it on your local machine, you can follow these steps:
 
-## 📄 Compilación del Informe
-Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
+1. Open your project in Overleaf (make sure you have created an account on Overleaf and imported your project there).
 
-1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
+2. Locate the "codelab.tex" file in the project in Overleaf.
 
-2. Localiza el archivo "codelab.tex" en el proyecto en Overleaf.
+3. Click on the "codelab.tex" file to open it in the Overleaf editor.
 
-3. Haz clic en el archivo "codelab.tex" para abrirlo en el editor de Overleaf.
+4. At the top of the editor, you will see a button called "Recompile" or "Compile" (it may vary depending on the version of Overleaf). Click on this button.
 
-4. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
+5. Overleaf will automatically compile the LaTeX document and generate the corresponding PDF file.
 
-5. Overleaf se encargará de compilar automáticamente el documento LaTeX y generará el archivo PDF correspondiente.
+6. Once the compilation is complete, you can download the resulting PDF file from the Overleaf interface.
 
-6. Una vez que haya finalizado la compilación, podrás descargar el archivo PDF resultante desde la interfaz de Overleaf.
-
-## 🤝 Contribuciones
+## 🤝 Contributions
 <img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Working-With-Sqlite/assets/90756437/f83020eb-76e4-4224-87e4-ae2a2d370b05g">
-Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.<br><br>
+If you wish to contribute to this report or make improvements, you are invited to do so. You can open issues or send pull requests to collaborate in the development of the report.<br><br>
 
-Por favor, contácteme si tiene preguntas o comentarios sobre el informe.
+Please feel free to contact me if you have questions or comments about the report.
